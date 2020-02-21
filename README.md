@@ -1,14 +1,6 @@
-# **Team 5- Kubernetes Presentation** #
+# **Kubernetes Presentation** #
 
-This is the github repository of our Kubernetes presentation.
-
-**Team Member Details:-**
-
-1.  Ankit Yadav
-
-2.  Preetam Jain
-
-3.  Ritu Agrawal
+This is the github repository of my Kubernetes presentation.
 
 **Video Link:-**
 
