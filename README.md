@@ -1,6 +1,6 @@
-# **Kubernetes Presentation** #
+# **A Quick Introductory guide to Kubernetes** #
 
-This is the github repository of my Kubernetes presentation.
+This is the github repository of my experience with Kubernetes.
 
 **Video Link:-**
 
